@@ -84,3 +84,7 @@ img{
 .tamanhoSimbolo{
     height: 75px;
 }
+
+.ordemDivs{
+    display: flex;
+}
